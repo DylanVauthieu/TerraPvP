@@ -5,7 +5,7 @@
 * [Some Pictures](#some-pictures)
 
 ## Global informations
-This proect is my first project in C#.
+This project is my first project in C#.\n
 It allows me to discover how work C# and the TModloader Lib.
 
 For this one I chose to do a mod that will allow you to play Terraria with a new PvP system.
