@@ -32,7 +32,7 @@ namespace TerraPvP.Content.Tiles
             switch(style)
             {
                 case 0: Item.NewItem(new EntitySource_TileBreak(x, y), x * 16, y * 16, 16, 16, ModContent.ItemType<Items.Placeables.TutorialBar>()); break;
-                case 1: break;
+                case 1: Item.NewItem(new EntitySource_TileBreak(x, y), x * 16, y * 16, 16, 16, ModContent.ItemType<Items.Placeables.TutorialRareBar>()); break;
                 case 2: break;
             }
 
