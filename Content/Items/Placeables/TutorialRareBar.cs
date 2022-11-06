@@ -10,7 +10,7 @@ namespace TerraPvP.Content.Items.Placeables
         public override void SetStaticDefaults()
         {
             CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 25;
-            ItemID.Sets.SortingPriorityMaterials[Type] = 59;
+            ItemID.Sets.SortingPriorityMaterials[Type] = 61;
         }
 
         public override void SetDefaults()
