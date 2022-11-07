@@ -10,8 +10,8 @@ namespace TerraPvP.Content.Items.Weapons
     {
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("My first Axe !");
-            Tooltip.SetDefault("I create my Axe !");
+            DisplayName.SetDefault("My first short sword !");
+            Tooltip.SetDefault("I create my short sword !");
             CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 1;
         }
         public override void SetDefaults()
