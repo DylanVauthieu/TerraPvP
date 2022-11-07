@@ -10,8 +10,6 @@ namespace TerraPvP.Content.Items.Weapons
     {
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("My first short sword !");
-            Tooltip.SetDefault("I create my short sword !");
             CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 1;
         }
         public override void SetDefaults()
@@ -49,7 +47,7 @@ namespace TerraPvP.Content.Items.Weapons
         {
             CreateRecipe()
                 .AddRecipeGroup(RecipeGroupID.Wood, 10)
-                .AddIngredient(ModContent.ItemType<ItemTest>(), 4)
+                .AddIngredient(ModContent.ItemType<TutorialItem>(), 4)
                 .AddTile(TileID.Anvils)
                 .Register();
         }
