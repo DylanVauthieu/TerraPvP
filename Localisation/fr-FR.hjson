@@ -1,0 +1,37 @@
+Mods:{
+    TerraPvP:{
+        ItemName:{
+            TutorialBar:"Lingot de Tutorialite"
+            TutorialOre:"Minerais de Tutorialite"
+
+            TutorialRareBar:"Super Lingot de Tutorialite"
+            TutorialRareOre:"Super Minerais de Tutorialite"
+
+            TutorialAxe:"Hache en Tutorialite"
+            TutorialHammer:"Marteau en Tutorialite"
+            TutorialPickaxe:"Pioche en Tutorialite"
+
+            TutorialShortsword:"Epée courte en Tutorialite"
+            TutorialSword:"Epée en Tutorialite"
+
+            TutorialItem:"Ouioui item"
+        }
+
+        ItemTooltip:{
+            TutorialAxe:"Ceci est une Hache"
+            TutorialHammer:"Ceci est un marteau"
+            TutorialPickaxe:"Ceci est une pioche"
+
+            TutorialShortsword:"Ceci est une épée courte"
+            TutorialSword:"Ceci est une épée"
+
+            TutorialItem:"C'est un objet basique"
+        }
+
+        MapObject:{
+            TutorialOre:"Tutorialite"
+            TutorialRareOre:"Mega Tutorialite"
+        }
+
+    }
+}

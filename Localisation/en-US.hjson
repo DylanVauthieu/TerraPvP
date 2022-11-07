@@ -1,0 +1,37 @@
+Mods:{
+    TerraPvP:{
+        ItemName:{
+            TutorialBar:"Tutorialite Bar"
+            TutorialOre:"Tutorialite Ore"
+
+            TutorialRareBare:"Super Tutorialite Bar"
+            TutorialRareOre:"Super Tutorialite Ore"
+
+            TutorialAxe:"Tutorialite Axe"
+            TutorialHammer:"Tutorialite Hammer"
+            TutorialPickaxe:"Tutorialite Pickaxe"
+
+            TutorialShortsword:"Tutorialite Shortsword"
+            TutorialSword:"Tutorialite Sword"
+
+            TutorialItem:"Generic item"
+        }
+
+        ItemTooltip:{
+            TutorialAxe:"El famoso Axe"
+            TutorialHammer:"El famoso Hammer"
+            TutorialPickaxe:"El famoso Pickaxe"
+
+            TutorialShortsword:"El famoso Shortsword"
+            TutorialSword:"El famoso Sword"
+
+            TutorialItem:"Just a basic item"
+        }
+
+        MapObject:{
+            TutorialOre:"Tutorialite"
+            TutorialRareOre:"Super Tutorialite"
+        }
+
+    }
+}
