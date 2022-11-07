@@ -27,8 +27,8 @@ $ cd test_to_show_code
 
 ## Some pictures
 
-Simple ore :
+Simple ore :  
 ![simple_ore](./pictures/simple_ore.png)
 
-Rare ore (spawn in toundra biome) :
+Rare ore (spawn in toundra biome) :  
 ![rare_ore](./pictures/rare_ore.png)
