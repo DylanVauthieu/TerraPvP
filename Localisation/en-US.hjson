@@ -15,6 +15,10 @@ Mods:{
             TutorialSword:"Tutorialite Sword"
 
             TutorialItem:"Generic item"
+
+            TutorialLeggings:"Tutorialite Leggings"
+            TutorialHelmet:"Tutorialite Helmet"
+            TutorialkChest:"Tutorialite Chest"
         }
 
         ItemTooltip:{
@@ -26,6 +30,10 @@ Mods:{
             TutorialSword:"El famoso Sword"
 
             TutorialItem:"Just a basic item"
+        }
+
+        ItemSetBonus:{
+            TutorialSet:"Cargo fast !"
         }
 
         MapObject:{

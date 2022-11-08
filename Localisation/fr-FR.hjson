@@ -15,6 +15,10 @@ Mods:{
             TutorialSword:"Epée en Tutorialite"
 
             TutorialItem:"Ouioui item"
+
+            TutorialLeggings:"Pantalons en Tutorialite"
+            TutorialHelmet:"Casque en Tutorialite"
+            TutorialkChest:"Plastron en Tutorialite"
         }
 
         ItemTooltip:{
@@ -26,6 +30,10 @@ Mods:{
             TutorialSword:"Ceci est une épée"
 
             TutorialItem:"C'est un objet basique"
+        }
+
+        ItemSetBonus:{
+            TutorialSet:"Je suis sonic !"
         }
 
         MapObject:{
