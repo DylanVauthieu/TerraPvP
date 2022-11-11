@@ -30,10 +30,12 @@ Mods:{
             TutorialSword:"El famoso Sword"
 
             TutorialItem:"Just a basic item"
+
+            TutorialkChest:"Immune against frozen\n+20 points of Mana\n+20 points of Life "
         }
 
         ItemSetBonus:{
-            TutorialSet:"Cargo fast !"
+            TutorialSet:"+10% of speed"
         }
 
         MapObject:{

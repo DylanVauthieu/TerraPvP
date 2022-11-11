@@ -30,10 +30,12 @@ Mods:{
             TutorialSword:"Ceci est une épée"
 
             TutorialItem:"C'est un objet basique"
+
+            TutorialkChest:"Immunisé contre le gel\n+20 points de mana max\n+20 points de vie"
         }
 
         ItemSetBonus:{
-            TutorialSet:"Je suis sonic !"
+            TutorialSet:"+10% de vitesse"
         }
 
         MapObject:{
