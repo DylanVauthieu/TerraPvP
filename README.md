@@ -12,6 +12,8 @@ For this one I chose to do a mod that will allow you to play Terraria with a new
 
 Be indulgent : I'm a student so i can't give so much time for this project and I'm not really familiar with C#
 
+[![wakatime](https://wakatime.com/badge/user/8fc98ba4-4c20-4295-aa16-edcf9fcb84c5/project/00348739-07f7-44e0-b1f5-f5cd3e423d3e.svg)](https://wakatime.com/badge/user/8fc98ba4-4c20-4295-aa16-edcf9fcb84c5
+
 ## Technologies
 Project is created with:
 * Tmodloader version: v2022.9.47.13
