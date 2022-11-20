@@ -46,7 +46,7 @@ namespace TerraPvP.Content.Biomes.Example
 					return BackgroundTextureLoader.GetBackgroundSlot(Mod, "Assets/Textures/Backgrounds/ExampleBiomeSurfaceMid3");
 				default:
 					return -1;
-			} 
+			}
         }
 
         public override int ChooseCloseTexture(ref float scale, ref double parallax, ref float a, ref float b)
