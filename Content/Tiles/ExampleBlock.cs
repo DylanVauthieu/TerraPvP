@@ -15,7 +15,7 @@ namespace TerraPvP.Content.Tiles
 			DustType = ModContent.DustType<Sparkle>();
 			ItemDrop = ModContent.ItemType<Items.Placeable.ExampleBlock>();
 
-			AddMapEntry(new Color(200, 200, 200));
+			AddMapEntry(new Color(200, 200, 200), CreateMapEntryName());
 		}
 
 		public override void NumDust(int i, int j, bool fail, ref int num) {

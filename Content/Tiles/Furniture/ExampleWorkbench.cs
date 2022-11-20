@@ -29,9 +29,7 @@ namespace TerraPvP.Content.Tiles.Furniture
 
 			AddToArray(ref TileID.Sets.RoomNeeds.CountsAsTable);
 
-			ModTranslation name = CreateMapEntryName();
-			name.SetDefault("Work Bench");
-			AddMapEntry(new Color(200, 200, 200), name);
+			AddMapEntry(new Color(200, 200, 200), CreateMapEntryName());
 		}
 
 		public override void NumDust(int x, int y, bool fail, ref int num) {
