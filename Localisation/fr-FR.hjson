@@ -19,6 +19,9 @@ Mods:{
             TutorialLeggings:"Pantalons en Tutorialite"
             TutorialHelmet:"Casque en Tutorialite"
             TutorialkChest:"Plastron en Tutorialite"
+
+            ExampleWorkbench:"Table de Craft"
+            ExampleBlock:"Premier block Classique"
         }
 
         ItemTooltip:{
@@ -32,6 +35,9 @@ Mods:{
             TutorialItem:"C'est un objet basique"
 
             TutorialkChest:"Immunisé contre le gel\n+20 points de mana max\n+20 points de vie"
+
+            ExampleWorkbench:"Première table de craft"
+            ExampleBlock:"Premier block Classique ajouté"
         }
 
         ItemSetBonus:{
@@ -41,7 +47,14 @@ Mods:{
         MapObject:{
             TutorialOre:"Tutorialite"
             TutorialRareOre:"Mega Tutorialite"
+
+            ExampleWorkbench:"Table De Craft Mod"
+            ExampleBlock:"Simple Bloc du Mod"
         }
+
+        BiomeName: {
+			ExampleSurfaceBiome: "Boutique Mii"
+		}
 
     }
 }
