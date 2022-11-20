@@ -44,7 +44,7 @@ namespace TerraPvP.Content.Items.Armors
         public override void AddRecipes()
         {
             CreateRecipe()
-                .AddIngredient(ModContent.ItemType<Content.Items.Placeables.TutorialRareBar>(), 10) //Add ingredient and value
+                .AddIngredient(ModContent.ItemType<Content.Items.Placeable.TutorialRareBar>(), 10) //Add ingredient and value
                 .AddTile(TileID.Anvils) //Add where he need to be craft
                 .Register(); //Complete the recipe
         }
