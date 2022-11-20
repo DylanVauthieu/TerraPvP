@@ -17,7 +17,14 @@ namespace TerraPvP.Content.Items
             Item.height = 16;
 
             Item.value = Item.buyPrice(copper: 5, silver: 3, gold: 1);
-            Item.maxStack = 10;
+            Item.maxStack = 999;
         }
+
+        public override void AddRecipes() {
+			CreateRecipe(999)
+				.AddIngredient(ItemID.DirtBlock, 10)
+				.AddTile(TileID.WorkBenches)
+				.Register();
+		}
     }
 }
