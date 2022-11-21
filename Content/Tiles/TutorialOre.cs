@@ -22,7 +22,7 @@ namespace TerraPvP.Content.Tiles
             AddMapEntry(new Color(200, 200, 200), CreateMapEntryName());
 
             DustType = DustID.Tungsten;
-            ItemDrop = ModContent.ItemType<Items.Placeables.TutorialOre>();
+            ItemDrop = ModContent.ItemType<Items.Placeable.TutorialOre>();
             HitSound = SoundID.Tink;
 
             MineResist = 1.5f;

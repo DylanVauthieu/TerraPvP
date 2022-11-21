@@ -19,6 +19,9 @@ Mods:{
             TutorialLeggings:"Tutorialite Leggings"
             TutorialHelmet:"Tutorialite Helmet"
             TutorialkChest:"Tutorialite Chest"
+
+            ExampleWorkbench:"Workbench Mod"
+            ExampleBlock:"First block"
         }
 
         ItemTooltip:{
@@ -32,6 +35,9 @@ Mods:{
             TutorialItem:"Just a basic item"
 
             TutorialkChest:"Immune against frozen\n+20 points of Mana\n+20 points of Life "
+
+            ExampleWorkbench:"First Workbench added"
+            ExampleBlock:"First block created"
         }
 
         ItemSetBonus:{
@@ -41,7 +47,14 @@ Mods:{
         MapObject:{
             TutorialOre:"Tutorialite"
             TutorialRareOre:"Super Tutorialite"
+
+            ExampleWorkbench:"WorkbenchMod"
+            ExampleBlock:"Simple Bloc"
         }
+
+        BiomeName: {
+			ExampleSurfaceBiome: "Mii Shop"
+		}
 
     }
 }
